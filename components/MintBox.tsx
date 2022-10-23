@@ -48,7 +48,7 @@ export function MintBox() {
         <div>
           Successfully minted your NFT!
           <div>
-            <a href={`https://optimistic.etherscan.io/tx/${data?.hash}`}>Optimistic Etherscan</a>
+            <a href={`https://optimistic.etherscan.io/tx/${data?.hash}`}>view on Etherscan</a>
           </div>
         </div>
       )}
