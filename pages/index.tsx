@@ -5,6 +5,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css';
 import { MintPartyPanda2 } from '../components/MintPartyPanda2'
 import { MintNounsGlasses } from '../components/MintNounsGlasses'
+import { MintBox } from '../components/MintBox'
 
 const Home: NextPage = () => {
   return (
@@ -38,8 +39,13 @@ const Home: NextPage = () => {
           </div>
 
           <div>
-            <h2>Nouns Glasses</h2>
+            <h2>Accessory: Nouns Glasses</h2>
           <MintNounsGlasses />
+          </div>
+
+          <div>
+            <h2>Background: Box</h2>
+          <MintBox />
           </div>
         </div>
 
