@@ -47,13 +47,13 @@ const Home: NextPage = () => {
       </main>
 
       <footer className={styles.footer}>
-      <a href="https://optimistic.etherscan.io/address/0x07ae2d181de9D3C5BA58ef4de616ea70a65A401D" target="_blank">Optimistic Etherscan</a>
+      <a href="https://optimistic.etherscan.io/address/0x07ae2d181de9D3C5BA58ef4de616ea70a65A401D">Optimistic Etherscan</a>
     {" | "}
-    <a href="https://qx.app/collection/party-panda-2-0" target="_blank">Quix NFT marketplace</a>
+    <a href="https://qx.app/collection/party-panda-2-0">Quix NFT marketplace</a>
     {" | "}
-    <a href="https://twitter.com/teampartypanda" target="_blank">Twitter</a>
+    <a href="https://twitter.com/teampartypanda">Twitter</a>
     {" | "}
-    <a href="https://github.com/TeamPartyPanda/party-panda-2.0" target="_blank">GitHub</a>
+    <a href="https://github.com/TeamPartyPanda/party-panda-2.0">GitHub</a>
       </footer>
     </div>
   );
