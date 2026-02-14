@@ -28,3 +28,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # party-panda-app
+
+Party
